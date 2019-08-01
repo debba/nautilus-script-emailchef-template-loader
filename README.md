@@ -1,7 +1,7 @@
 Nautilus eMailChef Template Loader
 -------------------
 
-This python script allow you to easily load your HTML files as eMailChef templates from Nautilus File Manager.
+The following python script allows you to easily load your HTML files as eMailChef templates from Nautilus File Manager.
 
 You can select multiple HTML files and use the context "Script" menu.
 
